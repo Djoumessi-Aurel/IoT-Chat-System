@@ -1,0 +1,1 @@
+[{"from":"Aurel","msg":"Bonjour à tous!","action":"server-broadcast","time":null},{"from":"Sigala","group":"reseau","msg":"Bonjour ici.","action":"gbroadcast","time":null},{"from":"Aurel","to":"Sigala","msg":"Bonjour Scammer!","action":"server-send","time":"2022-11-16 09:27:10"}]
